@@ -1,0 +1,23 @@
+steps to create Github repo:
++++++++++++++++++++++++
+Go to github account.
+clikc repositries
+click on new repo
+Project name:-<pn>
+public or private
+
+
+git init
+git add . 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Vasantech/vasan-It-school.git
+git push -u origin main
+
+git init
+git add .
+git add <fn>
+git commit -m "msg"
+git push -u origin main (optional)
+             or
+git push 
