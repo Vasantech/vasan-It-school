@@ -22,6 +22,11 @@ git push -u origin main (optional)
              or
 git push 
 
+Taking code from central git hub using below command
++++++++++++++++++++++++++++++++++++++++++++++++++
+crate folder Ex:- mkdir projects
+ git clone https://github.com/Vasantech/vasan-technologies.git
+
 #########################################################################
  pwd
     2  ls
