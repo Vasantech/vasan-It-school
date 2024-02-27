@@ -21,3 +21,32 @@ git commit -m "msg"
 git push -u origin main (optional)
              or
 git push 
+
+#########################################################################
+ pwd
+    2  ls
+    3  git staus
+    4  git status
+    5  git init
+    6  git status
+    7  git add .
+    8  git commit -m "first commit"
+    9  git branch -M main
+   10  git remote add origin https://github.com/Vasantech/vasan-It-school.git
+   11  git branch
+   12  git push
+   13  git push -u origin main
+   14  ls
+   15  cat git\ commands.txt
+   16  vi c1.txt
+   17  ls
+   18  git status
+   19  git add .
+   20  git status
+   21  git commit -m "changes made"
+   22  git push
+   23  git status
+   24  git add .
+   25  git commit -m "changes"
+   26  git push
+   27  history
